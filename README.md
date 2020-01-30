@@ -15,3 +15,5 @@ Conectar vários usuários em uma aplicação utilizando o modelo **cliente-serv
 3. Localize seu endereço de ip utilizando o **CMD:**`ipconfig` para Windows **ou** o **Terminal:**`ifconfig` para Linux.
 4. Na pasta do projeto em **public/index.html** localize: `var socket = io('http://localhost:3000/');` e altere "localhost" pelo ip da sua máquina, por exemplo: `var socket = io('http://111.222.3.44:3000/');`.
 5. Para executar o projeto: `npm start`.
+## :printer: Imagem
+![Screenshot_1](https://user-images.githubusercontent.com/17474352/73485452-db75e400-4381-11ea-8309-56223cf482ae.png)
