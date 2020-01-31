@@ -18,16 +18,16 @@ html, body {
   }
   
   input {
-    width: 600px;
+    width: 40%;
     border: 1px solid #008CBA;
-    height: 50px;
+    height: 5%;
     padding: 0 20px;
     font-size: 14px;
   }
   
   button {
-    width: 600px;
-    height: 50px;
+    width: 40%;
+    height: 6%;
     font-size: 14px;
     background-color: white;
     text-align: center;
@@ -44,8 +44,8 @@ html, body {
   }
   
   .messages {
-    width: 600px;
-    height: 400px; 
+    width: 40%;
+    height: 30%; 
     overflow-y: scroll;
     margin: 20px 0;
     border: 1px solid #008CBA;
